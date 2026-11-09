@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- El logo de la web, reducido para quedar dentro de la zona segura del icono adaptativo -->
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/impostor_logo"
+    android:inset="20%" />
